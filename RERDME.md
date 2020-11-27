@@ -7,7 +7,7 @@
 
 ## 2.反射的原理
 
-![类加载流程图]()
+![类加载流程图](https://raw.githubusercontent.com/githubtingou/reflect/master/src/main/resources/static/image/%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.png)
 
 ## 3.反射的优缺点
 
