@@ -1,5 +1,7 @@
 package com.ting.learn.reflect.dto;
 
+import com.ting.learn.reflect.create.Anno;
+
 /**
  * 学生类
  *
@@ -15,6 +17,7 @@ public class StudentDto {
     /**
      * 年龄
      */
+    @Anno(value = "14")
     private int age;
     /**
      * 性别
